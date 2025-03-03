@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\khush\OneDrive\Desktop\ResourceUsageExtractor\env"
+VIRTUAL_ENV="C:\Users\khush\OneDrive\Desktop\Projects\HybridRecovery\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
